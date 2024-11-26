@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/optimized-global-placement.git
+git clone https://github.com/piyushbirla10/optimized-global-placement.git
 cd optimized-global-placement
 Compile the Java code:
 
